@@ -1,0 +1,250 @@
+{
+  "tracks": {
+    "track_001": {
+      "title": "Lab Pe Aati Hai",
+      "artist": "Allama Iqbal",
+      "album": "Classics",
+      "durationMs": 213000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_001.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_001_cover.jpg?alt=media&token=your-token",
+      "tags": ["urdu", "nasheed", "classic"],
+      "featured": true,
+      "createdAt": 1719950000000
+    },
+    "track_002": {
+      "title": "Sare Jahan Se Achha",
+      "artist": "Muhammad Iqbal",
+      "album": "Patriotic Songs",
+      "durationMs": 195000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_002.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_002_cover.jpg?alt=media&token=your-token",
+      "tags": ["urdu", "patriotic", "classic"],
+      "featured": true,
+      "createdAt": 1719950100000
+    },
+    "track_003": {
+      "title": "Khuda Ki Basti",
+      "artist": "Nusrat Fateh Ali Khan",
+      "album": "Qawwali Collection",
+      "durationMs": 420000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_003.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_003_cover.jpg?alt=media&token=your-token",
+      "tags": ["qawwali", "sufi", "traditional"],
+      "featured": false,
+      "createdAt": 1719950200000
+    },
+    "track_004": {
+      "title": "Dil Dil Pakistan",
+      "artist": "Vital Signs",
+      "album": "Vital Signs 1",
+      "durationMs": 267000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_004.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_004_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "patriotic", "80s"],
+      "featured": true,
+      "createdAt": 1719950300000
+    },
+    "track_005": {
+      "title": "Jazba Junoon",
+      "artist": "Junoon",
+      "album": "Inquilaab",
+      "durationMs": 298000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_005.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_005_cover.jpg?alt=media&token=your-token",
+      "tags": ["rock", "sufi", "90s"],
+      "featured": false,
+      "createdAt": 1719950400000
+    },
+    "track_006": {
+      "title": "Tera Woh Pyar",
+      "artist": "Atif Aslam",
+      "album": "Jal Pari",
+      "durationMs": 245000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_006.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_006_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "romantic", "modern"],
+      "featured": true,
+      "createdAt": 1719950500000
+    },
+    "track_007": {
+      "title": "Khamoshi",
+      "artist": "Strings",
+      "album": "Duur",
+      "durationMs": 312000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_007.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_007_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "melancholic", "90s"],
+      "featured": false,
+      "createdAt": 1719950600000
+    },
+    "track_008": {
+      "title": "Bulleya",
+      "artist": "Rahat Fateh Ali Khan",
+      "album": "Sufi Collection",
+      "durationMs": 387000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_008.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_008_cover.jpg?alt=media&token=your-token",
+      "tags": ["sufi", "qawwali", "spiritual"],
+      "featured": true,
+      "createdAt": 1719950700000
+    },
+    "track_009": {
+      "title": "Aankhon Ke Sagar",
+      "artist": "Strings",
+      "album": "Koi Aanay Wala Hai",
+      "durationMs": 276000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_009.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_009_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "romantic", "2000s"],
+      "featured": false,
+      "createdAt": 1719950800000
+    },
+    "track_010": {
+      "title": "Dosti",
+      "artist": "Junoon",
+      "album": "Azadi",
+      "durationMs": 234000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_010.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_010_cover.jpg?alt=media&token=your-token",
+      "tags": ["rock", "friendship", "90s"],
+      "featured": false,
+      "createdAt": 1719950900000
+    },
+    "track_011": {
+      "title": "Woh Lamhe",
+      "artist": "Atif Aslam",
+      "album": "Doorie",
+      "durationMs": 289000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_011.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_011_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "romantic", "bollywood"],
+      "featured": true,
+      "createdAt": 1719951000000
+    },
+    "track_012": {
+      "title": "Sayonee",
+      "artist": "Junoon",
+      "album": "Inquilaab",
+      "durationMs": 356000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_012.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_012_cover.jpg?alt=media&token=your-token",
+      "tags": ["rock", "sufi", "classic"],
+      "featured": true,
+      "createdAt": 1719951100000
+    },
+    "track_013": {
+      "title": "Aadat",
+      "artist": "Jal",
+      "album": "Aadat",
+      "durationMs": 267000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_013.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_013_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "melancholic", "2000s"],
+      "featured": false,
+      "createdAt": 1719951200000
+    },
+    "track_014": {
+      "title": "Tere Bin",
+      "artist": "Atif Aslam",
+      "album": "Jal Pari",
+      "durationMs": 298000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_014.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_014_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "romantic", "bollywood"],
+      "featured": true,
+      "createdAt": 1719951300000
+    },
+    "track_015": {
+      "title": "Mera Bichra Yaar",
+      "artist": "Strings",
+      "album": "Dhaani",
+      "durationMs": 245000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_015.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_015_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "friendship", "2000s"],
+      "featured": false,
+      "createdAt": 1719951400000
+    },
+    "track_016": {
+      "title": "Ishq",
+      "artist": "Nusrat Fateh Ali Khan",
+      "album": "Qawwali Masterpieces",
+      "durationMs": 456000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_016.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_016_cover.jpg?alt=media&token=your-token",
+      "tags": ["qawwali", "sufi", "love"],
+      "featured": true,
+      "createdAt": 1719951500000
+    },
+    "track_017": {
+      "title": "Zinda",
+      "artist": "Strings",
+      "album": "Zinda",
+      "durationMs": 234000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_017.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_017_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "motivational", "2000s"],
+      "featured": false,
+      "createdAt": 1719951600000
+    },
+    "track_018": {
+      "title": "Khwaja Mere Khwaja",
+      "artist": "A.R. Rahman",
+      "album": "Jodhaa Akbar",
+      "durationMs": 387000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_018.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_018_cover.jpg?alt=media&token=your-token",
+      "tags": ["sufi", "bollywood", "spiritual"],
+      "featured": true,
+      "createdAt": 1719951700000
+    },
+    "track_019": {
+      "title": "Lamhay",
+      "artist": "Jal",
+      "album": "Boondh",
+      "durationMs": 276000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_019.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_019_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "melancholic", "2000s"],
+      "featured": false,
+      "createdAt": 1719951800000
+    },
+    "track_020": {
+      "title": "Yaadon Mein",
+      "artist": "Atif Aslam",
+      "album": "Meri Kahani",
+      "durationMs": 312000,
+      "streamUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/audio%2Ftrack_020.mp3?alt=media&token=your-token",
+      "coverUrl": "https://firebasestorage.googleapis.com/v0/b/your-project/o/images%2Ftrack_020_cover.jpg?alt=media&token=your-token",
+      "tags": ["pop", "nostalgic", "modern"],
+      "featured": true,
+      "createdAt": 1719951900000
+    }
+  },
+  "playlists": {
+    "playlist_001": {
+      "name": "Featured Hits",
+      "description": "Top featured tracks",
+      "tracks": ["track_001", "track_002", "track_004", "track_006", "track_008", "track_011", "track_012", "track_014", "track_016", "track_018", "track_020"],
+      "createdAt": 1719952000000
+    },
+    "playlist_002": {
+      "name": "Sufi Collection",
+      "description": "Spiritual and Sufi music",
+      "tracks": ["track_003", "track_005", "track_008", "track_012", "track_016", "track_018"],
+      "createdAt": 1719952100000
+    },
+    "playlist_003": {
+      "name": "90s Nostalgia",
+      "description": "Best of the 90s",
+      "tracks": ["track_005", "track_007", "track_010", "track_012"],
+      "createdAt": 1719952200000
+    },
+    "playlist_004": {
+      "name": "Romantic Melodies",
+      "description": "Love songs collection",
+      "tracks": ["track_006", "track_009", "track_011", "track_014", "track_016", "track_020"],
+      "createdAt": 1719952300000
+    }
+  }
+}
