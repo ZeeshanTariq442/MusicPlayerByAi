@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_quality_entries">
+        <item>Low (128 kbps)</item>
+        <item>Medium (256 kbps)</item>
+        <item>High (320 kbps)</item>
+    </string-array>
+    <string-array name="download_quality_values">
+        <item>low</item>
+        <item>medium</item>
+        <item>high</item>
+    </string-array>
+</resources>
