@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <PreferenceCategory android:title="Playback">
+        <SwitchPreferenceCompat
+            android:key="pref_audio_quality"
+            android:title="High Quality Audio"
+            android:summary="Stream high-quality audio (uses more data)"
+            android:defaultValue="false" />
+        
+        <ListPreference
+            android:key="pref_download_quality"
+            android:title="Download Quality"
+            android:summary="Quality for downloaded tracks"
+            android:entries="@array/download_quality_entries"
+            android:entryValues="@array/download_quality_values"
+            android:defaultValue="medium" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="Appearance">
+        <SwitchPreferenceCompat
+            android:key="pref_dark_theme"
+            android:title="Dark Theme"
+            android:summary="Use dark theme for the app"
+            android:defaultValue="false" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="Storage">
+        <Preference
+            android:key="pref_clear_cache"
+            android:title="Clear Cache"
+            android:summary="Clear cached images and data" />
+        
+        <Preference
+            android:key="pref_download_location"
+            android:title="Download Location"
+            android:summary="Change download folder" />
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="About">
+        <Preference
+            android:key="pref_version"
+            android:title="Version"
+            android:summary="1.0.0" />
+        
+        <Preference
+            android:key="pref_privacy_policy"
+            android:title="Privacy Policy" />
+        
+        <Preference
+            android:key="pref_terms"
+            android:title="Terms of Service" />
+    </PreferenceCategory>
+    
+</PreferenceScreen>
